@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/covid-tracker-maharashtra/static/css/main.5f361e03.chunk.css",
+    "main.js": "/covid-tracker-maharashtra/static/js/main.826d386e.chunk.js",
+    "main.js.map": "/covid-tracker-maharashtra/static/js/main.826d386e.chunk.js.map",
+    "runtime-main.js": "/covid-tracker-maharashtra/static/js/runtime-main.da974fa5.js",
+    "runtime-main.js.map": "/covid-tracker-maharashtra/static/js/runtime-main.da974fa5.js.map",
+    "static/js/2.f28a2d67.chunk.js": "/covid-tracker-maharashtra/static/js/2.f28a2d67.chunk.js",
+    "static/js/2.f28a2d67.chunk.js.map": "/covid-tracker-maharashtra/static/js/2.f28a2d67.chunk.js.map",
+    "index.html": "/covid-tracker-maharashtra/index.html",
+    "precache-manifest.06d33c06ebe26ff03e2364a54a27f729.js": "/covid-tracker-maharashtra/precache-manifest.06d33c06ebe26ff03e2364a54a27f729.js",
+    "service-worker.js": "/covid-tracker-maharashtra/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/covid-tracker-maharashtra/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f28a2d67.chunk.js.LICENSE.txt": "/covid-tracker-maharashtra/static/js/2.f28a2d67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da974fa5.js",
+    "static/js/2.f28a2d67.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.826d386e.chunk.js"
+  ]
+}
